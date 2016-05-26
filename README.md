@@ -1,11 +1,17 @@
 # Site Grupo Escoteiro Japão 140 / RS
-Caso queira conferir o [site do G.E. Japão]().
+Caso queira conferir o [site do G.E. Japão](http://gejapao.com.br/).
 
 ##Nossas Redes sociais:
 * [Facebook](http://fb.me/gejapao/)
 * [Instagram](http://instagr.am/gejapao/)
 * [Flickr](http://flic.kr/gejapao/)
+ 
+## Bugs / Glitchs conhecidos
+* Internet Explorer 11 não abre a fonte Wonton
+* No Smartphone se der zoom in depois zoom out, o layout volta levemente descentralizado para a esquerda. `testado no Samsung S5 + chomre mobile `
+* Em um notebook híbrido (notebook + tablet), a navegação do mapa não funciona pelo touch.   `testado no Asus T100TA + chomre desktop ` 
 
+---
 ---
 ## Projeto original Bootstrap Creative
 >Código foi modificado para as necessidades do grupo, mas sugiro fortemente dar uma olhada no [site StartBootstrap](http://startbootstrap.com/template-overviews/creative/)
