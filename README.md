@@ -1,5 +1,5 @@
 # Site Grupo Escoteiro Japão 140 / RS
-Caso queira conferir o [site do G.E. Japão](http://gejapao.com.br/).
+Caso queira conferir o [site do G.E. Japão]().
 
 ##Nossas Redes sociais:
 * [Facebook](http://fb.me/gejapao/)
