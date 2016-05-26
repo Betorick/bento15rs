@@ -6758,3 +6758,22 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+
+<style>
+body {
+padding-top: 50px; /* for nav */
+}
+html, body {
+height: 100%;
+width: 100%;
+}
+#map-canvas {
+height: 100%;
+width: 100%;
+}
+.container-map {
+width: 100%;
+height:100%;
+}
+</style>
