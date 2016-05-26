@@ -4,6 +4,11 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+ @font-face {
+    font-family: 'Wonton'; /*a name to be used later*/
+    src: url("../fonts/Wonton.ttf");
+}
+
 html,
 body {
     width: 100%;
@@ -41,6 +46,10 @@ a:focus {
     color: #41e53b;
 }
 
+.white{
+    color: #fff;
+}
+
 h1,
 h2,
 h3,
@@ -48,6 +57,20 @@ h4,
 h5,
 h6 {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+
+h1.w,
+h2.w,
+h3.w,
+h4.w,
+h5.w,
+h6.w {
+    font-size: 400%;
+}
+
+.w{
+    font-family: 'Wonton';
+    color: #ececec;
 }
 
 p {
@@ -428,9 +451,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: #ed431f;
+    border-color: #ed1f1f;
     color: #fff;
-    background-color: #ee4b28;
+    background-color: #ee2828;
 }
 
 .btn-primary:active,
@@ -480,28 +503,28 @@ fieldset[disabled] .btn-primary.active {
 
 ::-moz-selection {
     text-shadow: none;
-    color: #fff;
-    background: #222;
+    color: #9c2727;
+    background: rgba(44, 44, 44, .9);
 }
 
 ::selection {
     text-shadow: none;
-    color: #fff;
-    background: #222;
+    color: #9c2727;
+    background: color: rgba(44, 44, 44, .9);
 }
 
 img::selection {
-    color: #fff;
-    background: 0 0;
+    color: #9c2727;
+    background: rgba(44, 44, 44, .9);
 }
 
 img::-moz-selection {
-    color: #fff;
-    background: 0 0;
+    color: #9c2727;
+    background: rgba(44, 44, 44, .9);
 }
 
 body {
-    webkit-tap-highlight-color: #222;
+    webkit-tap-highlight-color: color: #FD3F3F;
 }
 
 
