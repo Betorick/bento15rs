@@ -8,7 +8,6 @@ Caso queira conferir o [site do G.E. Japão](http://gejapao.com.br/).
  
 ## Bugs / Glitchs conhecidos
 * Internet Explorer 11 não abre a fonte Wonton
-* No Smartphone se der zoom in depois zoom out, o layout volta levemente descentralizado para a esquerda. `testado no Samsung S5 + chomre mobile `
 * Em um notebook híbrido (notebook + tablet), a navegação do mapa não funciona pelo touch.   `testado no Asus T100TA + chomre desktop ` 
 
 ---
