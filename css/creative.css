@@ -490,7 +490,8 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn {
-    border: 0;
+    border: 1;
+    border-color: #FFFFFF;
     border-radius: 300px;
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
