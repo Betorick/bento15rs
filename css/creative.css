@@ -78,9 +78,9 @@ p {
     font-size: 16px;
     line-height: 1.5;
 }
-
+//cor do fundo
 .bg-primary {
-    background-color: #0000FF;
+    background-color: #4876FF; 
 }
 
 .bg-dark {
@@ -364,9 +364,9 @@ header .header-content .header-content-inner p {
 }
 
 .btn-default {
-    border-color: #fff;
+    border-color: #000000;
     color: #222;
-    background-color: #fff;
+    background-color: #0000FF;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -437,9 +437,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #f04040;
+    border-color: #000000;
     color: #fff;
-    background-color: #f04040;
+    background-color: #0000FF;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -485,8 +485,8 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-primary .badge {
-    color: #f04040;
-    background-color: #fff;
+    color: #000000;
+    background-color: #0000FF;
 }
 
 .btn {
