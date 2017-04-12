@@ -1,4 +1,4 @@
-# Site Grupo Escoteiro Japão 140 / RS
+# Site Grupo Escoteiro Bento Gonçalves - 15/RS
 Caso queira conferir o [site do G.E. Japão](http://gejapao.com.br/).
 
 ##Nossas Redes sociais:
