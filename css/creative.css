@@ -364,9 +364,9 @@ header .header-content .header-content-inner p {
 }
 
 .btn-default {
-    border-color: #FFFFFF;
-    color: #FFFFFF;
-    background-color: #0000FF;
+    border-color: #fff;
+    color: #222;
+    background-color: #fff;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
