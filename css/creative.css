@@ -21,7 +21,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #00FF00;
+    border-color: #FFFFFF;
     border-width: 3px;
 }
 
@@ -139,7 +139,7 @@ aside {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #00FF00;
+    color: #FFFFFF;
 }
 
 .navbar-default .nav > li.active>a,
@@ -185,7 +185,7 @@ aside {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         font-size: 16px;
-        color: #00FF00;
+        color: #FFFFFF;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -200,7 +200,7 @@ aside {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: #00FF00;
+        color: #FFFFFF;
     }
 }
 
