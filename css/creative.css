@@ -389,7 +389,7 @@ header .header-content .header-content-inner p {
 .open > .dropdown-toggle.btn-default {
     border-color: #ededed;
     color: #222;
-    background-color: #f2f2f2;
+    background-color: #f2f2f2; 
 }
 
 .btn-green:hover,
@@ -400,7 +400,7 @@ header .header-content .header-content-inner p {
 .open > .dropdown-toggle.btn-default {
     border-color: #ededed;
     color: #fff;
-    background-color: #41e53b;
+    background-color: #41e53b; 
 }
 
 .btn-default:active,
@@ -437,9 +437,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #0000CD; 
+    border-color: #00BFFF; 
     color: #fff;
-    background-color: #0000CD;
+    background-color: #00BFFF;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
