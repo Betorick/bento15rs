@@ -3,7 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-
+  
  @font-face {
     font-family: 'drifttyp'; /*a name to be used later*/
     src: url("../fonts/drifttyp.ttf");
@@ -70,7 +70,7 @@ h6.w {
 
 .w{
     font-family: 'drifttypx';
-    border-color:#FFFFFF;
+    border-color: #FFFFFF;
     color: #4169E1;
 }
 
