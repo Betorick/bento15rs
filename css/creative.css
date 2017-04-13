@@ -6,7 +6,7 @@
 
  @font-face {
     font-family: 'Wonton'; /*a name to be used later*/
-    src: url("../fonts/Wonton.ttf");
+    src: url("../fonts/drifttyp.ttf");
 }
 
 html,
@@ -69,8 +69,8 @@ h6.w {
 }
 
 .w{
-    font-family: 'Lobster';
-    color: #1E90FF;
+    font-family: 'drifttyp';
+    color: #0000CD;
 }
 
 p {
