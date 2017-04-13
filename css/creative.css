@@ -355,7 +355,7 @@ header .header-content .header-content-inner p {
 }
 
 .text-primary {
-    color: #f04040;
+    color: #0000FF;
 }
 
 .no-gutter > [class*=col-] {
@@ -503,23 +503,23 @@ fieldset[disabled] .btn-primary.active {
 
 ::-moz-selection {
     text-shadow: none;
-    color: #9c2727;
+    color: #000080;
     background: rgba(44, 44, 44, .9);
 }
 
 ::selection {
     text-shadow: none;
-    color: #9c2727;
+    color: #000080;
     background: color: rgba(44, 44, 44, .9);
 }
 
 img::selection {
-    color: #9c2727;
+    color: #000080;
     background: rgba(44, 44, 44, .9);
 }
 
 img::-moz-selection {
-    color: #9c2727;
+    color: #000080;
     background: rgba(44, 44, 44, .9);
 }
 
