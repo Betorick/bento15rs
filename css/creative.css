@@ -5,7 +5,7 @@
  */
 
  @font-face {
-    font-family: 'Wonton'; /*a name to be used later*/
+    font-family: 'drifttyp'; /*a name to be used later*/
     src: url("../fonts/drifttyp.ttf");
 }
 
@@ -70,7 +70,7 @@ h6.w {
 
 .w{
     font-family: 'drifttyp';
-    color: #0000CD;
+    color: #000080;
 }
 
 p {
